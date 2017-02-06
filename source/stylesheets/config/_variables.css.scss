@@ -3,8 +3,9 @@
  * ------------------------------------- */
 // Google fonts
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Raleway:400,100,300,700,500");
+@import url("https://fonts.googleapis.com/css?family=Oswald");
 $base-font: "Open Sans", "Helvetica", "sans-serif";
-$header-font: "Raleway", "Helvetica", "sans-serif";
+$header-font: "Oswald", "Helvetica", "sans-serif";
 
 // Local fonts (uncomment following lines)
 // @font-face {
@@ -26,6 +27,7 @@ $base-height: 1.4;
 // Scheme
 $brand-color: #D23333;
 
+$brand: #D23333;
 $red: #EE5F5B;
 $blue: #469AE0;
 $yellow: #FDB631;
