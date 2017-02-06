@@ -1,0 +1,15 @@
+- name: Some product
+  image: card-brussels.jpeg
+  description: Some stuff
+  more-info: Very cool stuff, useful and smart
+  avatar-image: lala.jpg
+- name: Some product
+  image: card-london.jpeg
+  description: Some stuff
+  more-info: Very cool stuff, useful and smart
+  avatar-image: winky.jpg
+- name: Some product
+  image: card-paris.jpg
+  description: Some stuff
+  more-info: Very cool stuff, useful and smart
+  avatar-image: dipsy.jpg
